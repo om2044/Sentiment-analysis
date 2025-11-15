@@ -1,1 +1,1 @@
-# Repository for final project
+# Sentiment analysis project
